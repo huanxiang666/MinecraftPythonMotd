@@ -1,0 +1,1 @@
+这可能是全球极少数的支持http API和GUI的Python写的查询motd的基岩版和Java版的工具
